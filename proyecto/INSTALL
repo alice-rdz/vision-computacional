@@ -1,0 +1,29 @@
+INSTALL
+-------
+
+
+Para el funcionamiento de este programa se necesita lo siguiente: 
+	Python 2.7 
+	Numpy
+	PIL
+	TkInter
+
+Instalación de los paquetes utilizados:
+ 
+------------------
+Python 2.7- Linux
+------------------
+
+Python algunas veces puede venir pre-instalado en sistemas operativos Linux(Ubuntu), en caso de no estar instalado ejecutar el siguiente comando: 
+
+sudo apt-get install python
+
+
+-------------------------
+NumPy 
+-------------------------
+
+En Ubuntu, ejecutar el comando:
+
+sudo apt-get install python python-tk idle python-pmw python-imaging
+
