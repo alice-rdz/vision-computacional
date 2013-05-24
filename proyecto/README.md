@@ -1,16 +1,17 @@
-Proyecto: Detección de pinturas a través de imagenes con formas definidas y colores
+Proyecto: Detección de pinturas a través de imágenes con formas definidas y colores
 
 Creado por Blanca ALicia Rodríguez Rivas
 
 Correo: alicerdz.rivas@gmail.com
 
-Blog: http://rdz-computer-vision.blogspot.mx/search/label/Vision%20Computacional Fecha de ultima modificación: 21 de Mayo 2013
+Blog: http://rdz-computer-vision.blogspot.mx/search/label/Vision%20Computacional 
+Fecha de ultima modificación: 21 de Mayo 2013
 
 --------------
 Instalación
 --------------
 
-El programa solo es cuestión de descargarlo al igual que sus imagenes tomadas por mi y la base de datos que se utilizo.
+El programa solo es cuestión de descargarlo al igual que sus imágenes tomadas por mi y la base de datos que se utilizó.
 
 Las imagenes de prueba se tomaron mediante una camara de celular.
 
@@ -20,12 +21,12 @@ Para ejectuar este programa:
 
 1. Se abre una terminal
 
-2. Se localiza en la direccion donde se encunetre el archivo 
+2. Se localiza en la dirección donde se encuentre el archivo 
 
 4. Ingresamos el siguiente comando python proyecto.py imagen umbral (imagen = es la imagen con la que trabajaremos y el umbral es el que deseemos para la binarización) 
 
-5.Sale una interfaz en la cul seleccionaras detectar para que el proceso comience
+5.Sale una interfaz en la cual seleccionará detectar para que el proceso comience
 
 6. El proceso comienza y cada paso que realiza se guarda como una imagen
 
-8. En la pantalla te despliega si realmente encontro coincidencia con una de las pinturas o no y te dice que pintura es.
+8. En la pantalla te despliega si realmente encontró coincidencia con una de las pinturas o no y te dice que pintura es.
