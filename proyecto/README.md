@@ -11,7 +11,7 @@ Las imagenes de prueba se tomaron mediante una camara de celular.
 
 Ejecución
 
-Para ejectuar este programa,
+Para ejectuar este programa:
 1. Se abre una terminal
 2. Se localiza en la direccion donde se encunetre el archivo 
 4. Ingresamos el siguiente comando python proyecto.py imagen umbral (imagen = es la imagen con la que trabajaremos y el umbral es el que deseemos para la binarización) 
