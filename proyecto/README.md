@@ -6,7 +6,9 @@ Correo: alicerdz.rivas@gmail.com
 
 Blog: http://rdz-computer-vision.blogspot.mx/search/label/Vision%20Computacional Fecha de ultima modificación: 21 de Mayo 2013
 
+--------------
 Instalación
+--------------
 
 El programa solo es cuestión de descargarlo al igual que sus imagenes tomadas por mi y la base de datos que se utilizo.
 
